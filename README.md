@@ -17,7 +17,7 @@
 
 <h1 align="center">ABOUT ME</h1>
 <p align="left">Hi everyone, my name is Ahmad Khalil, and I am from Lahore, Pakistan. Recently, I completed my Bachelor's degree in Computer Science from Bahria University Lahore Campus. Additionally, I am enthusiastic about web development.</p>
-<p align="left">Fresh Web Developer specializing in front end development. Experience regarding my own personal learning. Well-versed in numerous programming languages including Html, Css, JavaScript, Node.js, Bootstrap, NoSql. I wish to contribute towards organizational goals through my hard work, creativity and skills.</p>
+<p align="left">I am a passionate frontend developer with expertise in HTML, CSS, and JavaScript. I have experience building responsive and interactive web applications using React.js and Bootstrap. I am also proficient in backend development with Node.js. I am dedicated to continuous learning and staying updated with the latest technologies in the field.</p>
 <p align="left">My goal is to create user-friendly web applications that cater to your audience's needs. By understanding your users' preferences and providing responsive design, clear navigation, and readable content, I guarantee an intuitive interface.</p>
 <h1 align="center">Connect with me</h1>
 <p align="center">
